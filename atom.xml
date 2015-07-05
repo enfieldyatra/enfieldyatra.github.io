@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Enfield YATRA]]></title>
-  <link href="http://enfieldyatra.com/atom.xml" rel="self"/>
-  <link href="http://enfieldyatra.com/"/>
-  <updated>2015-07-05T14:57:43+05:30</updated>
-  <id>http://enfieldyatra.com/</id>
+  <title><![CDATA[Enfield Yatra]]></title>
+  <link href="http://enfieldyatra.github.io/atom.xml" rel="self"/>
+  <link href="http://enfieldyatra.github.io/"/>
+  <updated>2015-07-05T15:02:03+05:30</updated>
+  <id>http://enfieldyatra.github.io/</id>
   <author>
     <name><![CDATA[EnfieldYatra]]></name>
     

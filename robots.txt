@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://enfieldyatra.com/sitemap.xml 
+Sitemap: http://enfieldyatra.github.io/sitemap.xml 
